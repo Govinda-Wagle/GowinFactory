@@ -1,10 +1,11 @@
 # GowinFactory
-Geo Location in Ionic/AngularJs.
+It shows Geo Location using google maps.
+
 This project is created using ionic sidemenu template.
 
-Follow the steps to make it work.
-  Add google map api key in the script in index.html
+1.Follow the steps to make it work.
+ * Add google map api key in the script in index.html
 
-Then go to project directory and run ionic serve,
-    ionic serve --lab
+2.Then go to project directory and run ionic serve.
+   * ionic serve --lab
     
