@@ -1,4 +1,4 @@
-# GowinFactory
+# Ionic-Geolocation
 It shows Geo Location using google maps.
 
 This project is created using ionic sidemenu template.
